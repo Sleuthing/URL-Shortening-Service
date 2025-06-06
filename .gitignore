@@ -1,0 +1,7 @@
+urlshorteningservice/urlshorteningservice/.env
+DO_NOT_PUSH.txt
+urlshorteningservice/urlshorteningservice/.vscode/settings.json
+urlshorteningservice/shortener/__pycache__
+urlshorteningservice/shortener/migrations/__pycache__
+urlshorteningservice/urlshorteningservice/__pycache__
+.gitignore
